@@ -1,0 +1,11 @@
+Employee_ID,Name,Designition,Department,Phone_No,Email,Gender,DOB,DOJ,Address,Salary(CTC),Country,Marital_Status
+101,Anurag Singh,Web Developer,IT services,9876543210,anurag21@gmail.com,Male,21-09-2000,03-03-2022,"House no. 327, Block C, Shastri Nagar, Gahziabad",7654321,India,Unmarried
+102,Lavit Puri,Accountant,Accounts and Finance,9753108642,purilavit21@gmail.com,Male,21-09-2000,01-03-2022,"House no. 327, Block C, Kavi Nagar",2000000,India,Unmarried
+103,Sagar Roy,Data Analyst,IT services,9865321407,roysagar@gmail.com,Male,07-01-2000,01-03-2022,"House no. 64, Block C, Shastri Nagar, Ghaziabad",1200000,India,Unmarried
+104,Shubham Roy,Human Resource Manager,Human Resource Deaprtment,8765321407,royshubham@gmail.com,Male,07-01-2000,01-03-2022,"House no. 64, Block C, Shastri Nagar, Ghaziabad",1200000,India,Unmarried
+105,Sumit Dagar,Data Engineer,IT services,9810236753,sumit2000@gmail.com,Male,19-11-2000,01-03-2022,"House no. 327, Block C, Shastri Nagar, Ghaziabad",1800000,India,Unmarried
+106,Deepanshu Tripathi,Web Developer,IT services,9955543558,deepanshu07@gmail.com,Male,07-11-2000,01-03-2022,"House no. 221, Block E, Govindpuram, Ghaziabad",1800000,India,Unmarried
+107,Siddharth Samantha,UI/UX Designer,IT services,9862456232,samanthasid07@gmail.com,Male,11-11-2000,23-11-2021,"Flat no. 12, Floor no. 13, Panscheel",1000000,India,Unmarried
+108,Vikas Shivastava,Data Engineer,IT services,8774562798,Vikasree03@gmail.com,Male,03-05-2000,28-11-2021,"House no. 1213, Govindpuram, New Delhi",1400000,India,Unmarried
+109,Priyanshu Bansal,Product Manager,Product development,9768976436,bansalpriyanshu21@gmail.com,Male,21/010/2000,05/006/2021,"House no. 123, Kavi Nagar, Agra",1000000,India,Married
+110,Anushka Gautam,Web Developer,IT services,9807658761,anushkagautam@gmail.com,Female,24-02-2000,"25/05/2021HGouse no. 101, Shastri Nagar, Mumbai","House no. 101, Kavi Nagar, Mumbai",1400000,India,Unmarried
